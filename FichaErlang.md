@@ -28,7 +28,11 @@ El tipo de paradigma de Erlang es funcional declarativa. Paradigma de programaci
 
 ## **Implementación: Compilado, Interpretado, Híbrido, Transpilado, etc.**
 
+Erlang es un lenguaje de programación interpretado, aunque también se puede compila usando el compilador HiPE (en algunas plataformas).
+
 ## **Runtime / Maquina Virtual**
+
+Erlang es un lenguaje de programación concurrente y un sistema de ejecución que incluye una máquina virtual (BEAM) y bibliotecas (OTP).
 
 ## **Plataformas soportadas: Win, Linux, Mac, etc.**
 
